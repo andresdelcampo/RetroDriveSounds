@@ -20,8 +20,8 @@ License: https://creativecommons.org/licenses/by/4.0/
 
 ## Drives from other sources:
 
-- Floppy samples from MAME (https://github.com/mamedev/mame)
-- Floppy, CDROM, system, etc sounds from IBMulator (https://github.com/barotto/IBMulator)
+- 2 Floppy drives samples from MAME (https://github.com/mamedev/mame)
+- 2 Floppy drives, plus CDROM, modem, etc sounds from IBMulator (https://github.com/barotto/IBMulator)
 - 7 different floppy drives from flopster (http://shiru.untergrund.net/files/flopster.zip)
 
 IMPORTANT: Read their respective licenses
