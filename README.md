@@ -4,7 +4,7 @@ Started as a collaboration to 86Box for the disk drive noise sounds feature, who
 
 Recorded with a TASCAM DR-05X in WAV 16 bit 48 KHz mono.
 
-Drives included so far:
+## Drives included so far:
 
 - Alps Electric Co Ltd model DF354H148F, 3 1/2 1.44 MB, black color. I think its sounds are quite the standard of what I remember of the drives of the era at least, and quite clean. This one was obtained purchased second hand. Recorded in a 486 with AMI BIOS.
 
@@ -14,6 +14,17 @@ Drives included so far:
 
 - Teac FD-55GFR, a 5 1/4 white floppy disk drive. Unfortunately it would not read correctly the disks during the recording, so files are limited. Recorded in a 486 with AMI BIOS.
 
-Open to contributions.
+License: https://creativecommons.org/licenses/by/4.0/
 
-Feel free to reuse these in other projects.
+
+## Other sources included:
+
+- Floppy samples from MAME (https://github.com/mamedev/mame)
+- Floppy, CDROM, system, etc sounds from IBMulator (https://github.com/barotto/IBMulator)
+
+IMPORTANT: Read their respective licenses
+
+
+## Notes
+
+Open to contributions.
