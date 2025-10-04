@@ -1,0 +1,13 @@
+Flopster by Shiru
+
+Source: http://shiru.untergrund.net/files/flopster.zip
+
+License 
+
+The plugin and its source code come without any warranty. You can
+redistribute it and/or modify it under the terms of the WTFPL.
+See http://www.wtfpl.net/ for more details. 
+
+Mail:	 shiru@mail.ru
+Web:     http://shiru.untergrund.net
+Support: https://www.patreon.com/shiru8bit
