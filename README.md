@@ -1,10 +1,11 @@
 # Retro Drive Sounds
 This repo intends to conserve the sounds of old PC disk drives (floppies or hard disks). 
-Started as a collaboration to 86Box for the disk drive noise sounds feature, who know if this might grow more. 
+Started as a collaboration to 86Box for the disk drive noise sounds feature, who know if this might grow more.
+Contains sounds from at least 15 different drives including drives from other sources.
 
+
+## Drives from own recordings:
 Recorded with a TASCAM DR-05X in WAV 16 bit 48 KHz mono.
-
-## Drives included so far:
 
 - Alps Electric Co Ltd model DF354H148F, 3 1/2 1.44 MB, black color. I think its sounds are quite the standard of what I remember of the drives of the era at least, and quite clean. This one was obtained purchased second hand. Recorded in a 486 with AMI BIOS.
 
@@ -17,7 +18,7 @@ Recorded with a TASCAM DR-05X in WAV 16 bit 48 KHz mono.
 License: https://creativecommons.org/licenses/by/4.0/
 
 
-## Other sources included:
+## Drives from other sources:
 
 - Floppy samples from MAME (https://github.com/mamedev/mame)
 - Floppy, CDROM, system, etc sounds from IBMulator (https://github.com/barotto/IBMulator)
