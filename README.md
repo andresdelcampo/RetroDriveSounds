@@ -30,3 +30,13 @@ IMPORTANT: Read their respective licenses
 ## Notes
 
 Open to contributions.
+
+
+
+## About PCDoctor diagnostics
+
+- 5 1/4 Panasonic running in XT, with a 360 KB disk (40 sectors). This drive supports 1.2 disks too but I do not have any. Ran 12 tests -seems like the second batch is repeated from the first one, but not 100% sure. 
+- 3 1/2 Panasonic running in XT with a 1.44 MB disk (80 sectors). Ran 6 tests.
+- 3 1/2 Alps running in 486 -much shorter diagnostic. Also in 1.44 MB disk (80 sectors). Ran 6 tests.
+
+Tests include edge to edge seeks, progression of edge to center seeks (i.e. 1, 80, 2, 79, 3, 78...), random seeks, linear verification, random verification, etc.
