@@ -40,3 +40,7 @@ Open to contributions.
 - 3 1/2 Alps running in 486 -much shorter diagnostic. Also in 1.44 MB disk (80 sectors). Ran 6 tests.
 
 Tests include edge to edge seeks, progression of edge to center seeks (i.e. 1, 80, 2, 79, 3, 78...), random seeks, linear verification, random verification, etc.
+
+---
+
+For more of my projects, visit [Software Workshop](https://andresdelcampo.github.io/software-showcase/).
